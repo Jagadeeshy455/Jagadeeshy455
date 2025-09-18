@@ -84,5 +84,3 @@ Here are some ideas to get you started:
 <br>
 <p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
 
-Hi
-
